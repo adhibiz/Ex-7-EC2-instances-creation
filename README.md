@@ -14,7 +14,6 @@ To set up and launch an Amazon EC2 instance, providing on-demand computing servi
 7. **Monitor Instance State**: Track instance states (running, stopped, terminated) and utilize AWS CloudWatch for performance monitoring.
 
 ---
-
 ## **Instructions**
 
 ### Step 1: Log into AWS Account
