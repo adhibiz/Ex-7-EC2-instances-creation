@@ -20,7 +20,8 @@ To set up and launch an Amazon EC2 instance, providing on-demand computing servi
 ### Step 1: Log into AWS Account
    - Open the AWS console and select **EC2** under **Services**.
 
-![vcc1](https://github.com/user-attachments/assets/44fa39e0-9b38-4e17-9c7a-c20a1a99170e)
+![image](https://github.com/user-attachments/assets/665e1cc6-fa67-4f54-a000-c45c4e436dd4)
+
 
 
 ### Step 2: Launch an Instance
